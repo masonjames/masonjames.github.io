@@ -1,0 +1,4 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+JEKYLL_GITHUB_TOKEN=69cbcd6aa4c7f21491d94c727d7de18dd42557c0 bundle exec jekyll serve
