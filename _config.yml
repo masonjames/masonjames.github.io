@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mason James
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme  forked from They Hyde. Pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/masonjames" target="_blank">@masonjames</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mason James'
+  url:            https://twitter.com/masonjames
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+gems: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/masonjames/hyde
